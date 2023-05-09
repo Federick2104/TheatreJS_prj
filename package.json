@@ -1,0 +1,15 @@
+{
+  "name": "theatre-project",
+  "version": "1.0.0",
+  "description": "A Theatre project",
+  "main": "index.js",
+  "author": "Federico Schianchi",
+  "license": "MIT",
+  "dependencies": {
+    "@theatre/core": "^0.6.0"
+  },
+  "devDependencies": {
+    "@theatre/studio": "^0.6.0",
+    "parcel": "^2.8.3"
+  }
+}
